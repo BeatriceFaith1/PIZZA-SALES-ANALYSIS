@@ -52,7 +52,7 @@ Recommendation: Focus on marketing large pizzas as value-for-money options for g
 Recommendation: Highlight bestselling pizzas like the Thai Chicken in advertisements and menus while exploring similar flavor profiles to introduce new offerings.
 
 
-Conclusion
+Summary
 
 This project successfully analyzed pizza sales data to identify critical trends, customer preferences, and revenue patterns. By leveraging Power BI’s capabilities for data cleaning, modeling, and visualization, the project delivered an interactive dashboard that provides actionable insights for business growth. The recommendations, if implemented, can help optimize sales strategies, improve product offerings, and maximize revenue potential in a competitive market.
 
